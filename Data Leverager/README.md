@@ -229,7 +229,7 @@ Enabled **Column Quality**, **Column Distribution**, **Column Profile** from the
 
 ## 🎬 Project Demo Video
 
-▶️ [Click here to watch the project walkthrough video](#)
+▶️ https://drive.google.com/file/d/1x6efKuSzRKSjEv3kJi2alaJJ4lJl6E7Q/view?usp=sharing
 
 ---
 
