@@ -4,6 +4,27 @@
 
 ---
 
+## 🎬 Project Demo Video
+
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1x6efKuSzRKSjEv3kJi2alaJJ4lJl6E7Q/view?usp=sharing)
+
+> 📺 Click the badge above to watch the full project walkthrough video on Google Drive.
+
+---
+
+## 🖼️ Project Preview
+
+### Overview — Hero & Module Cards
+![Data Leverager Preview 1](Project%20preview/Preview%20(1).png)
+
+### Modules 04–08 — Numeric, Date/Time, Logic, Reshape, Combine
+![Data Leverager Preview 2](Project%20preview/Preview%20(2).png)
+
+### Modules 09–12 — Aggregate, Quality, Config, Simulate & Submission Checklist
+![Data Leverager Preview 3](Project%20preview/Preview%20(3).png)
+
+---
+
 ## 🚀 Project Overview
 
 This project presents a complete **Power Query ETL Pipeline** built inside **Microsoft Power BI Desktop**. It demonstrates real-world data engineering skills including:
@@ -30,7 +51,7 @@ This project presents a complete **Power Query ETL Pipeline** built inside **Mic
 |---|---|
 | 📄 `PR_1_DATA_LEVERAGER.pbix` | Main Power BI file with all 13 Power Query transformations |
 | 📘 `README.md` | Project documentation (this file) |
-| 🎬 Video | Project walkthrough video (link below) |
+| 🎬 Video | [Project walkthrough video](https://drive.google.com/file/d/1x6efKuSzRKSjEv3kJi2alaJJ4lJl6E7Q/view?usp=sharing) |
 | 📷 Project preview | Explanation of project in images |
 | 📁 Files Used | Files used in project |
 
@@ -154,13 +175,6 @@ Enabled **Column Quality**, **Column Distribution**, **Column Profile** from the
 
 ---
 
-## 🎬 Project Demo Video
-
-▶️ https://drive.google.com/file/d/1x6efKuSzRKSjEv3kJi2alaJJ4lJl6E7Q/view?usp=sharing
-
----
-
-
 ## 🗃️ Query Summary
 
 **Total Queries: 13**
@@ -233,10 +247,6 @@ Enabled **Column Quality**, **Column Distribution**, **Column Profile** from the
 - [ ] Automate refresh via Power BI Service + Scheduled Refresh
 - [ ] Build an interactive Sales Dashboard on top of this ETL layer
 - [ ] Add incremental refresh for large monthly datasets
-
----
-
-
 
 ---
 
