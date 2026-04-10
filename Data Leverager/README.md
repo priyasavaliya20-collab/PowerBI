@@ -31,6 +31,8 @@ This project presents a complete **Power Query ETL Pipeline** built inside **Mic
 | 📄 `PR_1_DATA_LEVERAGER.pbix` | Main Power BI file with all 13 Power Query transformations |
 | 📘 `README.md` | Project documentation (this file) |
 | 🎬 Video | Project walkthrough video (link below) |
+| 📷 Project preview | Explanation of project in images |
+| 📁 Files Used | Files used in project |
 
 ---
 
@@ -152,6 +154,13 @@ Enabled **Column Quality**, **Column Distribution**, **Column Profile** from the
 
 ---
 
+## 🎬 Project Demo Video
+
+▶️ https://drive.google.com/file/d/1x6efKuSzRKSjEv3kJi2alaJJ4lJl6E7Q/view?usp=sharing
+
+---
+
+
 ## 🗃️ Query Summary
 
 **Total Queries: 13**
@@ -227,9 +236,7 @@ Enabled **Column Quality**, **Column Distribution**, **Column Profile** from the
 
 ---
 
-## 🎬 Project Demo Video
 
-▶️ https://drive.google.com/file/d/1x6efKuSzRKSjEv3kJi2alaJJ4lJl6E7Q/view?usp=sharing
 
 ---
 
