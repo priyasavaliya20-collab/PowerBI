@@ -12,18 +12,6 @@
 
 ---
 
-## 🖼️ Project Preview
-
-### Overview — Hero & Module Cards
-![Data Leverager Preview 1](Project%20preview/Preview%20(1).png)
-
-### Modules 04–08 — Numeric, Date/Time, Logic, Reshape, Combine
-![Data Leverager Preview 2](Project%20preview/Preview%20(2).png)
-
-### Modules 09–12 — Aggregate, Quality, Config, Simulate & Submission Checklist
-![Data Leverager Preview 3](Project%20preview/Preview%20(3).png)
-
----
 
 ## 🚀 Project Overview
 
@@ -172,6 +160,19 @@ Enabled **Column Quality**, **Column Distribution**, **Column Profile** from the
 - Copied an existing file → renamed `Sales_Apr.xlsx` → placed in same folder
 - Clicked **Refresh** in Power BI → April data loaded automatically ✅
 - All previous transformations carried over successfully ✅
+
+---
+
+## 🖼️ Project Preview
+
+### Overview — Hero & Module Cards
+![Data Leverager Preview 1](Project%20preview/Preview%20(1).png)
+
+### Modules 04–08 — Numeric, Date/Time, Logic, Reshape, Combine
+![Data Leverager Preview 2](Project%20preview/Preview%20(2).png)
+
+### Modules 09–12 — Aggregate, Quality, Config, Simulate & Submission Checklist
+![Data Leverager Preview 3](Project%20preview/Preview%20(3).png)
 
 ---
 
