@@ -53,7 +53,8 @@ This project demonstrates end-to-end **Data Modeling** inside Microsoft Power BI
 
 ## 📸 Project Preview
 
-![Project Preview](project_preview.png)
+![Project Preview](project%20preview.png)
+
 
 ---
 
