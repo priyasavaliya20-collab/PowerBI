@@ -88,7 +88,7 @@ Customer_Dim[FirstName] & " " & Customer_Dim[LastName]
 
 #### IF, AND, OR, SWITCH
 
-![IF AND OR SWITCH](https://raw.githubusercontent.com/priyasavaliya20-collab/PowerBI/main/PR_3_DAX_DEPO/PR_3_images/IF,AND,OR,SWITCH.png)
+![IF AND OR SWITCH]([https://raw.githubusercontent.com/priyasavaliya20-collab/PowerBI/main/PR_3_DAX_DEPO/PR_3_images/IF,AND,OR,SWITCH.png](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/PR_3_DAX_DEPO/PR_3_images/IF%20%2CAND%2COR%2CSWITCH.png))
 
 ---
 
