@@ -88,13 +88,13 @@ Customer_Dim[FirstName] & " " & Customer_Dim[LastName]
 
 #### IF, AND, OR, SWITCH
 
-![IF AND OR SWITCH](https://raw.githubusercontent.com/priyasavaliya20-collab/PowerBI/main/PR_3_DAX_DEPO/PR_3_images/IF_AND,OR,SWITCH.png)
+![IF AND OR SWITCH](https://raw.githubusercontent.com/priyasavaliya20-collab/PowerBI/main/PR_3_DAX_DEPO/PR_3_images/IF,AND,OR,SWITCH.png)
 
 ---
 
 #### YEAR, EOMONTH
 
-![YEAR EOMONTH](https://raw.githubusercontent.com/priyasavaliya20-collab/PowerBI/main/PR_3_DAX_DEPO/PR_3_images/YEAR%20%2C%20MONTH%20%2C%20EOMONTH....png)
+![YEAR MONTH EOMONTH](https://raw.githubusercontent.com/priyasavaliya20-collab/PowerBI/main/PR_3_DAX_DEPO/PR_3_images/YEAR%20%2C%20MONTH%20%2C%20EOMONTH....png)
 
 ---
 
@@ -269,7 +269,7 @@ SWITCH(
 
 ---
 
-## 👩‍💻 Shruti Bhawsar
+## 👩‍💻 Priya Savaliya
 
 📍 Ahmedabad
 
