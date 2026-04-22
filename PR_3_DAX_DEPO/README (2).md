@@ -146,7 +146,7 @@ Sales Category = SWITCH(
 )
 ```
 
-![IF, AND, OR, SWITCH](PR_3_images/IF%2CAND%2COR%2CSWITCH.png)
+![IF, AND, OR, SWITCH](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/PR_3_DAX_DEPO/PR_3_images/IF%20,AND,OR,SWITCH.png?raw=true)
 
 **Columns in Product_Dim & Date_Dim:**
 
@@ -250,7 +250,7 @@ AvgOrderValue  = AVERAGEX( Sales_Fact, Sales_Fact[Quantity] * Sales_Fact[Cost] )
 
 ---
 
-## 👩‍💻 Shruti Bhawsar
+## 👩‍💻 Priya Savaliya
 📍 Ahmedabad
 
 ---
