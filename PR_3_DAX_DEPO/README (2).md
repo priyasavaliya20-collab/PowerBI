@@ -14,7 +14,7 @@ This project demonstrates end-to-end DAX (Data Analysis Expressions) inside Micr
 
 | File | Description |
 |------|-------------|
-| 📄 PR3_DAX_Depo.pbix | Main Power BI file |
+| 📄 PR_3_DAX_DEPO.pbix | Main Power BI file |
 | 📁 files used | Files used in project |
 | 📷 Project images | Task screenshots |
 | 📘 README.md | Readme of the project |
