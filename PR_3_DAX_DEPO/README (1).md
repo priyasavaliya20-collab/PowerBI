@@ -89,7 +89,7 @@ Customer_Dim[FirstName] & " " & Customer_Dim[LastName]
 
 #### YEAR, EOMONTH
 
-![YEAR MONTH EOMONTH](https://raw.githubusercontent.com/priyasavaliya20-collab/PowerBI/main/PR_3_DAX_DEPO/PR_3_images/YEAR%20%2C%20MONTH%20%2C%20EOMONTH....png)
+![YEAR MONTH EOMONTH](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/PR_3_DAX_DEPO/PR_3_images/YEAR%20,%20MONTH%20,%20EOMONTH.png?raw=true)
 
 ---
 
