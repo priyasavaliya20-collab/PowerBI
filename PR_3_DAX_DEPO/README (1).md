@@ -11,6 +11,16 @@ This project demonstrates end-to-end **DAX (Data Analysis Expressions)** inside 
 
 ---
 
+## 📁 Project files 
+
+| File | Description |
+|------|-------------|
+| 📄 `Sales_Fact` | Main Power BI file  |
+| 📁 `files used` | Files used in project |
+| 📷 `Project images` | task screenshots |
+| 📘 `README>md` | Readme of the project |
+---
+
 ## 📁 Data Sources
 
 | File | Key Columns |
