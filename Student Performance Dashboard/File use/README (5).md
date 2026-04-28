@@ -97,7 +97,7 @@ SWITCH(
 ### 🔹 3️⃣ Visualizations
 
 #### 📌 Academic View Page
-![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Acadamic%20view.png?raw=true)
 
 
 **KPI Cards:**
