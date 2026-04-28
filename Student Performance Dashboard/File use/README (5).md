@@ -53,7 +53,7 @@ This project was built as part of a Power BI exam assignment (2.5–3 hours, 50 
 
 **Model View:**
 
-![Data Model](project%20images/data_model.png)
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
 
 ---
 
