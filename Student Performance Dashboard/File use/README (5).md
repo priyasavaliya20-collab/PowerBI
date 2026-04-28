@@ -99,6 +99,8 @@ SWITCH(
 #### 📌 Academic View Page
 ![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Acadamic%20view.png?raw=true)
 
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
 
 **KPI Cards:**
 - Total Students → `TOTAL Student`
@@ -125,6 +127,9 @@ SWITCH(
 
 #### 📌 Behavioral View Page
 
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
+
 **KPI Cards:**
 - Total Incidents
 - Disruptive Count
@@ -146,6 +151,13 @@ SWITCH(
 
 #### 📌 Student Profile (Drillthrough) Page
 
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
+
 **KPI Cards:**
 - `% Score`
 - `Attendance %`
@@ -163,11 +175,21 @@ SWITCH(
 
 #### 📌 Tooltip Page
 
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
+
 A custom tooltip page configured to appear on hover over the **Average Score by Subject** visual on the Academic View page.
 
 **Contents:**
 - Clustered Bar Chart: Subject vs `% Score`
 - Card: `Class Avg`
+
+📌 Bookmarks
+
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
 
 ---
 
@@ -187,9 +209,15 @@ A custom tooltip page configured to appear on hover over the **Average Score by 
 
 All measures are organized in a dedicated table called **Measure Management** in the Fields Pane, keeping the model clean and measures easy to find.
 
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
+
 ---
 
 ### 🔹 6️⃣ Mobile Layout *(Optional — Completed)*
+
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
 
 A mobile-optimized layout was created for the Academic View page, rearranging visuals vertically for the Power BI mobile app. KPI cards, bar chart, and line chart are all visible in a scrollable single-column layout.
 
