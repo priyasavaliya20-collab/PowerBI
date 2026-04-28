@@ -177,7 +177,7 @@ SWITCH(
 
 ![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/tooltip%20page.png?raw=true)
 
-![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Tooltip%20working.png?raw=true)
 
 
 A custom tooltip page configured to appear on hover over the **Average Score by Subject** visual on the Academic View page.
