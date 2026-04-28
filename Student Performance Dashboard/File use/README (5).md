@@ -216,7 +216,7 @@ All measures are organized in a dedicated table called **Measure Management** in
 
 ### 🔹 6️⃣ Mobile Layout *(Optional — Completed)*
 
-![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/Mobile%20layout%20image/Mobile%20layout.png?raw=true)
 
 
 A mobile-optimized layout was created for the Academic View page, rearranging visuals vertically for the Power BI mobile app. KPI cards, bar chart, and line chart are all visible in a scrollable single-column layout.
