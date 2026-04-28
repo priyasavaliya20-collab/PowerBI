@@ -59,7 +59,8 @@ This project was built as part of a Power BI exam assignment (2.5–3 hours, 50 
 
 ### 🔹 2️⃣ DAX Measures
 
-All measures are stored in a dedicated **Measure Management** table for organized access via the Fields Pane.
+All measures are stored in a dedicated **Measure Management** table for organized access via the Fields Pane
+
 
 ```dax
 % Score = DIVIDE(SUM('Scores csv'[Score]), SUM('Scores csv'[MaxScore]))
@@ -96,6 +97,8 @@ SWITCH(
 ### 🔹 3️⃣ Visualizations
 
 #### 📌 Academic View Page
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+
 
 **KPI Cards:**
 - Total Students → `TOTAL Student`
