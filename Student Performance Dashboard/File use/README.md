@@ -261,7 +261,7 @@ A mobile-optimized layout was created for the Academic View page, rearranging vi
 
 ---
 
-## 👩‍💻 Shruti Bhawsar
+## 👩‍💻 Priya Savaliya
 
 📍 Ahmedabad
 
