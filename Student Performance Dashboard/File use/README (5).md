@@ -155,7 +155,7 @@ SWITCH(
 
 ![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Drillthrough%20process.png?raw=true)
 
-![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/After%20drillthrought.png?raw=true)
 
 
 **KPI Cards:**
