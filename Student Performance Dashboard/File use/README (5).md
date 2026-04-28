@@ -209,7 +209,7 @@ A custom tooltip page configured to appear on hover over the **Average Score by 
 
 All measures are organized in a dedicated table called **Measure Management** in the Fields Pane, keeping the model clean and measures easy to find.
 
-![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Student%20relationalship.png?raw=true)
+![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Measure%20Table.png?raw=true)
 
 
 ---
