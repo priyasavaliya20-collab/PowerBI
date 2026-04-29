@@ -12,7 +12,7 @@ This project was built as part of a Power BI exam assignment (2.5–3 hours, 50 
 
 ## 🎬 Project Demo Video
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1x6efKuSzRKSjEv3kJi2alaJJ4lJl6E7Q/view?usp=sharing)
+[![Watch the Project Walkthrough](https://drive.google.com/file/d/1e7dE0BsaF3pU732zzRzabpV-X89BMq3s/view?usp=sharing)
 
 > 📺 Click the badge above to watch the full project walkthrough video on Google Drive.
 
