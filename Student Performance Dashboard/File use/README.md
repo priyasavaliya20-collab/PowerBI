@@ -96,6 +96,11 @@ SWITCH(
 
 ### 🔹 3️⃣ Visualizations
 
+#### 📌 Home Page
+
+<img width="1237" height="791" alt="Screenshot 2026-04-29 101707" src="https://github.com/user-attachments/assets/caae0cb1-d40b-4d69-8b68-c7b429255777" />
+
+
 #### 📌 Academic View Page
 ![Data Model](https://github.com/priyasavaliya20-collab/PowerBI/blob/main/Student%20Performance%20Dashboard/File%20use/project%20images%20power%20bi/Acadamic%20view.png?raw=true)
 
