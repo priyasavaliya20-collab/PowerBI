@@ -212,7 +212,7 @@ The main overview page showing company-wide KPIs and trends.
 #### 📄 Page 2 — Customer Analysis
 ---
 
-<img width="1326" height="741" alt="Screenshot 2026-04-30 101250" src="https://github.com/user-attachments/assets/5168e088-8079-414e-82e2-2135189a6c17" />
+<img width="1277" height="718" alt="Screenshot 2026-04-30 113627" src="https://github.com/user-attachments/assets/4c0a03c3-88b4-460c-87f3-99a16a2d05a9" />
 
 ---
 
@@ -240,7 +240,7 @@ Deep-dive into customer-level performance.
 
 ---
 
-<img width="1324" height="748" alt="Screenshot 2026-04-30 101304" src="https://github.com/user-attachments/assets/82c63cce-9565-42a0-9b89-fa4b33ef9164" />
+<img width="1277" height="719" alt="Screenshot 2026-04-30 113643" src="https://github.com/user-attachments/assets/8506dae5-5185-4e08-895b-99c5ec619e19" />
 
 --
 
@@ -295,7 +295,9 @@ A dynamic analysis page powered by **Field Parameters** and **Numeric Range Para
 
 ---
 
-<img width="1323" height="743" alt="Screenshot 2026-04-30 101338" src="https://github.com/user-attachments/assets/92b279bd-5889-414d-be4c-e5cd82ed6f04" />
+<img width="1276" height="717" alt="Screenshot 2026-04-30 113655" src="https://github.com/user-attachments/assets/a20c9784-1d1b-48ff-8f12-fc5277dedcb5" />
+
+
 
 ----
 
@@ -327,7 +329,8 @@ Context-sensitive drillthrough for customer-level return analysis.
 
 ---
 
-<img width="397" height="306" alt="Screenshot 2026-04-30 101352" src="https://github.com/user-attachments/assets/eb2b89d4-ec55-4809-a536-1e6e05efa1f0" />
+<img width="637" height="400" alt="Screenshot 2026-04-30 113718" src="https://github.com/user-attachments/assets/5c7e9389-db81-4737-9299-fb9cf158c1ae" />
+
 
 ---
 
