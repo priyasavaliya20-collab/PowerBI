@@ -274,7 +274,7 @@ Product-level breakdown across categories.
 
 ---
 
-<img width="800" height="550" alt="Screenshot 2026-04-30 101324" src="https://github.com/user-attachments/assets/36727d42-cd6a-4d4f-adf2-c655179d639b" />
+<img width="900" height="550" alt="Screenshot 2026-04-30 101324" src="https://github.com/user-attachments/assets/36727d42-cd6a-4d4f-adf2-c655179d639b" />
 
 ---
 
