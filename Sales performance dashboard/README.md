@@ -14,7 +14,8 @@ This project demonstrates a real-world Power BI reporting solution built on a **
 |-----------|-------------|
 | 📄 `Sales_Dashboard.pbix` | Main Power BI file with all pages, DAX, and relationships |
 | 📘 `README.md` | Project documentation (this file) |
-| 🖼️ Dashboard Screenshots | Preview images for each report page |
+| 📁 `File used sale` | file used in project  |
+| 🖼️ Dashboard Preview | Preview images for each report page |
 
 ---
 
@@ -172,6 +173,12 @@ TOTALYTD(SUM('Sales_Fact'[TotalAmount]), 'Date_Dim'[Date])
 ---
 
 ### 🔹 Task 4 — Dashboard Layout (6 Pages)
+
+#### 📄 Home Page  — Sales Performance Dashboard
+
+<img width="1288" height="862" alt="Screenshot 2026-04-30 102014" src="https://github.com/user-attachments/assets/3c8fd790-da31-483e-8f6f-d28e8508e469" />
+
+---
 
 #### 📄 Page 1 — Sales Performance Dashboard
 
