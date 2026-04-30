@@ -181,6 +181,11 @@ TOTALYTD(SUM('Sales_Fact'[TotalAmount]), 'Date_Dim'[Date])
 ---
 
 #### 📄 Page 1 — Sales Performance Dashboard
+---
+
+<img width="1326" height="746" alt="Screenshot 2026-04-30 101223" src="https://github.com/user-attachments/assets/ea0d3c2f-e25b-447a-9175-064630168e51" />
+
+---
 
 The main overview page showing company-wide KPIs and trends.
 
