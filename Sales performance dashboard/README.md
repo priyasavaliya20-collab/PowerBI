@@ -339,7 +339,7 @@ Context-sensitive drillthrough for customer-level return analysis.
 
 ---
 
-<img width="300" height="250" alt="Screenshot 2026-04-30 114206" src="https://github.com/user-attachments/assets/89be8606-d0d3-44bd-9200-f3d0ddb5a5cf" />
+<img width="400" height="250" alt="Screenshot 2026-04-30 114206" src="https://github.com/user-attachments/assets/89be8606-d0d3-44bd-9200-f3d0ddb5a5cf" />
 
 ---
 
@@ -383,7 +383,7 @@ Used as a custom tooltip across the Sales Performance Dashboard page visuals.
 
 ---
 
-<img width="600" height="550" alt="Screenshot 2026-04-30 101516" src="https://github.com/user-attachments/assets/ca0d0f17-e6bc-4c13-9acc-6a2e696494ae" />
+<img width="800" height="550" alt="Screenshot 2026-04-30 101516" src="https://github.com/user-attachments/assets/ca0d0f17-e6bc-4c13-9acc-6a2e696494ae" />
 
 ---
 
