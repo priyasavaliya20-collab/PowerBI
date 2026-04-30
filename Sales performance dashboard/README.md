@@ -372,7 +372,7 @@ Used as a custom tooltip across the Sales Performance Dashboard page visuals.
 
 ---
 
-*** Conditional Formatting :-
+ Conditional Formatting :-
 ---
 
 <img width="266" height="237" alt="Screenshot 2026-04-30 121038" src="https://github.com/user-attachments/assets/f6b033b1-a335-4284-a272-19796d049dee" />
@@ -391,21 +391,7 @@ Used as a custom tooltip across the Sales Performance Dashboard page visuals.
 
 ---
 
- 1. Over view Mobile Layout :-
-
- <img width="1440" height="2656" alt="image" src="https://github.com/user-attachments/assets/0cd922c5-8749-4f52-a28c-03855b867fca" />
-
- ---
-
- 2. Product Mobile Layout :-
-
- <img width="1440" height="2062" alt="image" src="https://github.com/user-attachments/assets/add05519-e688-4368-a284-ce2030d76b40" />
-
- ---
-
- 3. Drillthorugh Mobile Layout :-
-
- <img width="1440" height="1402" alt="image" src="https://github.com/user-attachments/assets/574b1f3c-a7bc-4c44-a35d-4ce99749aed2" />
+ <img width="824" height="597" alt="image" src="https://github.com/user-attachments/assets/136428a0-c45a-4c45-a340-5cc0c5958bc8" />
 
  
 ---
