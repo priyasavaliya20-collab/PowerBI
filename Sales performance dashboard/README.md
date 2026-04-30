@@ -299,7 +299,7 @@ A dynamic analysis page powered by **Field Parameters** and **Numeric Range Para
 
 ---
 
-<img width="654" height="622" alt="Screenshot 2026-04-30 114402" src="https://github.com/user-attachments/assets/6355b74a-f22d-4bce-8335-fbe41529184e" />
+<img width="300" height="250" alt="Screenshot 2026-04-30 114402" src="https://github.com/user-attachments/assets/6355b74a-f22d-4bce-8335-fbe41529184e" />
 
 ---
 
